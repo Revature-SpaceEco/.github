@@ -28,7 +28,7 @@ Table of Contents |
 
 ## Getting Started
 
-See the [STARTUP.md](./STARTUP.md) file for for instructions on cloning and running the application for the frontend and backend respectively.
+See the [STARTUP.md](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/STARTUP.md) file for for instructions on cloning and running the application for the frontend and backend respectively.
 
 <br />
 
@@ -117,17 +117,17 @@ Backend Link: [Repo Link](https://github.com/Revature-SpaceEco/spaceeco-backend)
 
 ## Screenshots
 
-![IMG](./screenshots/RegisterPage.PNG)
+![IMG](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/screenshots/RegisterPage.PNG)
 
-![IMG](./screenshots/LoginPage.PNG)
+![IMG](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/screenshots/LoginPage.PNG)
 
-![IMG](./screenshots/CartPage.PNG)
+![IMG](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/screenshots/CartPage.PNG)
 
 <br />
 
 ## License
 
-The license for this project is the GNU GPL. For full details, refer to the [LICENSE.md](./LICENSE.md) file within the repository.
+The license for this project is the GNU GPL. For full details, refer to the [LICENSE.md](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/LICENSE.md) file within the repository.
 
 ## Tests
 
@@ -141,10 +141,10 @@ Tests can be run on the **backend** by running `./gradlew test` in the terminal.
 
 Further documentation is included in this repository in regards to the project. This includes:
 
--  [API documentation](./Endpoints/API.md)
--  [Security documentation](./SECURITY.md)
--  [Initial Wireframe](./Space_Eco_Wireframe.pdf)
--  [ERD File](./Space_Eco_ERD.PNG)
+-  [API documentation](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/Endpoints/API.md)
+-  [Security documentation](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/SECURITY.md)
+-  [Initial Wireframe](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/Space_Eco_Wireframe.pdf)
+-  [ERD File](https://github.com/Revature-SpaceEco/spaceeco-documentation/blob/main/Space_Eco_ERD.PNG)
 
 <br />
 
